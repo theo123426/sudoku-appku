@@ -1,1 +1,1 @@
-# sudoku-appku
+# sugoku  

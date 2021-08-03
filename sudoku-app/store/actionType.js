@@ -1,0 +1,3 @@
+export const BOARD_TABLE = "BOARD_TABLE";
+export const STATIC_TABLE = 'STATIC_TABLE'
+export const WINNER_BOARD = "WINNER_BOARD"
